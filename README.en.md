@@ -3,26 +3,38 @@
 [![English](https://img.shields.io/badge/English-Click-blue?style=flat-square)](README.en.md)
 [![中文](https://img.shields.io/badge/中文-点击-red?style=flat-square)](README.md)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter:wght@600&size=32&duration=3000&pause=1000&color=1a1a2e&center=true&vCenter=true&width=600&lines=Student;Indie+Developer" alt="Typing SVG" />
-</a>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 </div>
 
-## 🎓 About Me
 
-```
-┌───────────────────────────────────────────────────────────────────────────┐
-│  💼 Interests          │  Quantitative Finance    │  Blockchain            │
-│                        │  AI/ML                   │  Creative Software     │
-│                        │                          │  Development / Product │
-│                        │                          │  Design                │
-└───────────────────────────────────────────────────────────────────────────┘
-```
+<h1 align="center">🎓 About Me</h1>
+<p align="center">
+  <strong>Student、 Indie Developer</strong>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Quantitative Finance-blue.svg" alt="量化金融">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AI/ML-red.svg" alt="人工智能">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Software Software-green.svg" alt="软件开发">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Blockchain-yellow.svg" alt="区块链">
+  </a>
+</p>
+
+- I am learning **CS 、Math、AI/ML、Quantitative Trade、Blockchain** and so on.
+
+- **vibe coding**，
+
+
+- **vibe coding**，Full-stack development, likes and focuses on creative web applications and software development, product design。
 
 ***
 
