@@ -13,14 +13,30 @@
 
 </div>
 
-## 🎓 关于我
 
-```
-┌───────────────────────────────────────────────────────────────────────────┐
-│  💼 喜欢的领域        │  量化金融          │ 区块链                         │
-│                      │  人工智能/机器学习  | 创意软件开发/产品设计            │
-└───────────────────────────────────────────────────────────────────────────┘
-```
+<h1 align="center">🎓 关于我</h1>
+<p align="center">
+  <strong>学生、个人开发者</strong>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/量化金融-blue.svg" alt="量化金融">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/人工智能-red.svg" alt="人工智能">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/软件开发-green.svg" alt="软件开发">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/区块链-yellow.svg" alt="区块链">
+  </a>
+</p>
+
+- 目前正在学习**计算机底层、数学、人工智能、区块链**等等相关的知识。
+
+- vibe coding领域，全栈开发，专注于创意web应用和软件开发。
 
 ***
 
