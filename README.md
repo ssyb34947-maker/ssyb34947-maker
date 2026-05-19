@@ -3,13 +3,10 @@
 [![English](https://img.shields.io/badge/English-Click-blue?style=flat-square)](README.md)
 [![中文](https://img.shields.io/badge/中文-点击-red?style=flat-square)](README.zh.md)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC:wght@600&size=32&duration=3000&pause=1000&color=1a1a2e&center=true&vCenter=true&width=600&lines=学生、个人开发者" alt="Typing SVG" />
-</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourprofile)
+
 
 </div>
 
