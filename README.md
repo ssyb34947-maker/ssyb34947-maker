@@ -35,34 +35,6 @@
 
 - **vibe coding**，全栈开发，喜欢并专注于创意web应用和软件开发、产品设计。
 
-***
-
-## 🛠️ 技术栈
-
-### 💻 编程语言
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=java\&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square\&logo=c++\&logoColor=yellow)
-
-### 🌐 全栈开发
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square\&logo=fastapi\&logoColor=yellow)
-![Agent](https://img.shields.io/badge/Agent-000000?style=flat-square\&logo=agent\&logoColor=blue)
-
-### 🗄️ 数据与基础设施
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=yellow)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=red)
-![Milvus](https://img.shields.io/badge/Milvus-000000?style=flat-square\&logo=milvus\&logoColor=white)
-
-### 🤖 机器学习与人工智能
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=yellow)
+- **我的博客：** <a href="https://ssyb34947-maker.github.io/">https://ssyb34947-maker.github.io/</a>
 
 ***
-
